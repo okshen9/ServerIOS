@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  turfonSpeaker
+
+  Created by Dmitry Rogov on 15/11/2018.
+  Copyright © 2018 Dmitry Rogov. All rights reserved.
+*/
+
+"password" = "Password";
+"bad_email" = "Email address you entered is incorrect";
+"schedule" = "Schedule";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"tomorrow" = "Tomorrow";
+"logout" = "Logout";
+"lost_tourist" = "What should you do if your tourist is lost?";
+"no_events_available" = "There is no planned excursions right now";
+"place" = "Place";
+"tourists_total" = "Tourists";
+"excursion_is_finished" = "Excursion is finished";
+"information" = "The password is listed on the ticket.\nExample: 09VA67";
+"show" = "show";
+"more" = "More details...";
+"in_progress" = "On air";
+"description" = "Description";
+"start_broadcasting" = "Start broadcasting";
+"stop_broadcasting" = "Stop broadcasting";
+"continue_broadcasting" = "Continue broadcasting";
+"done" = "Done";
+"tourists" = "Tourists";
+"lost_tourist_connection" = "Tourist connection is lost";
+"what_to_do" = "What should I do?";
+"finish_excursion" = "Finish excursion";
+"question" = "Question";
+"questions" = "Questions";
+"finish_excursion_title" = "Do you want to finish the excursion?";
+"finish_excursion_description" = "After completing the excursion you will not be able to resume it";
+"yes" = "Yes";
+"headset_off_label" = "Headset is not connected";
+"headset_off_sub_label" = "Connect a headset or continue through the phone's speakers";
+"headset_off_continue" = "Continue through the speakers";
+"button" = "button";
+"hallsNear" = "Projected server percent utilization.\n
+It is recommended to work when the load is less than 70%.";
+"speker" = "speker";
+"translation" = "Translation";
+"pass_info" = "The password is listed on the ticket.\nExample: 09VA67";
+"enter_password" = "Enter password";
+"bad_pasword" = "Invalid password specified";
+"speakers" = "Speakers";
+"available_translation" = "Available translation";
+"expected" = "Expected";
+"show_all" = "Show all...";
+"no_speakers" = "No speakers";
+"no_name" = "No name";
+"hide" = "Hide";
+"okey" = "Ok";
+"plug_headset" = "Please plug in the headset";
+"january" = "january";
+"february" = "february";
+"march" = "march";
+"april" = "april";
+"may" = "may";
+"june" = "june";
+"july" = "july";
+"august" = "august";
+"september" = "september";
+"october" = "october";
+"november" = "november";
+"december" = "december";
+"monday" = "monday";
+"tuesday" = "tuesday";
+"wednesday" = "wednesday";
+"thursday" = "thursday";
+"friday" = "friday";
+"saturday" = "saturday";
+"sunday" = "sunday";
+"monday" = "monday";
+"tuesday" = "tuesday";
+"wednesday" = "wednesday";
+"thursday" = "thursday";
+"friday" = "friday";
+"saturday" = "saturday";
+"months" = "Months";
+"all_values" = "All values";
+"highLoad" = "High server load, it is recommended to carefully select the operating time, most likely the calculations will be performed at a lower speed.";
+"lowLoad" = "Low server load, work at such moments is expected with maximum performance.";
+"normalLoad" = "The average server load, the load is not large, but there is a possibility of short-term peak loads.";
