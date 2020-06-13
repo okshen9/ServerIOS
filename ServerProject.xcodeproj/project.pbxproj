@@ -137,9 +137,18 @@
 				2CDF8207247ADAC600644427 /* CongestionMonthVC.swift */,
 				2CDF8209247ADACF00644427 /* CongestionMonthVC.storyboard */,
 				2CDF8211247ADF0900644427 /* CongestionViewModel.swift */,
-				2CDF8215247AE60D00644427 /* Cell */,
 			);
 			path = Month;
+			sourceTree = "<group>";
+		};
+		2CAD366D2494FC0C00554A33 /* Days */ = {
+			isa = PBXGroup;
+			children = (
+				2C910EFC247FB81700739045 /* CongestionWeekVC.swift */,
+				2C910F00247FBD6500739045 /* CongestionWeekVC.storyboard */,
+				2C910EFE247FB85800739045 /* CongestionWeekViewModel.swift */,
+			);
+			path = Days;
 			sourceTree = "<group>";
 		};
 		2CD3EDBA247ACBF500F37838 = {
@@ -253,9 +262,8 @@
 			isa = PBXGroup;
 			children = (
 				2C910EFB247FB7E700739045 /* Month */,
-				2C910EFC247FB81700739045 /* CongestionWeekVC.swift */,
-				2C910F00247FBD6500739045 /* CongestionWeekVC.storyboard */,
-				2C910EFE247FB85800739045 /* CongestionWeekViewModel.swift */,
+				2CAD366D2494FC0C00554A33 /* Days */,
+				2CDF8215247AE60D00644427 /* Cell */,
 			);
 			path = "Сongestion";
 			sourceTree = "<group>";
